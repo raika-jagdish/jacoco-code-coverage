@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/raika-jagdish/jacoco-code-coverage.svg?token=qtWz8dy87HcbefDfvkWn&branch=master)](https://app.travis-ci.com/raika-jagdish/jacoco-code-coverage)
+
 # README: How to Execute the Program
 
 This README file provides step-by-step instructions to execute the program and generate code coverage reports using JaCoCo.
@@ -111,3 +113,5 @@ bash script.sh
 ---
 
 Enjoy analyzing your code coverage at runtime! 😊
+
+For more details, visit [JaCoCo End-to-End Code Coverage at Runtime](https://dzone.com/articles/code-coverage-report-generator-for-java-projects-a)
